@@ -31,7 +31,7 @@ Few-shot specific emitter identification (SEI) presents challenges in scenarios 
 ## Model Architecture
 The architecture of the proposed FCR-CT (VAT) framework is shown below:
 
-![Model Architecture](images/fig3.png)
+![Model Architecture](Image/fig3.png)
 ### **Repository Structure**
 ```
 ├── data/                 # Datasets (ADS-B signals)
