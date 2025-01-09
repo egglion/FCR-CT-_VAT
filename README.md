@@ -26,7 +26,12 @@ Few-shot specific emitter identification (SEI) presents challenges in scenarios 
    - Leverages labeled and unlabeled data to improve model robustness and mitigate classification challenges.
 
 ---
+# FCR-CT (VAT) Framework
 
+## Model Architecture
+The architecture of the proposed FCR-CT (VAT) framework is shown below:
+
+![Model Architecture](fig3.fig)
 ### **Repository Structure**
 ```
 ├── data/                 # Datasets (ADS-B signals)
